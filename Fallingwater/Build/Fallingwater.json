@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Fallingwater.data.unityweb",
+"asmCodeUrl": "Fallingwater.asm.code.unityweb",
+"asmMemoryUrl": "Fallingwater.asm.memory.unityweb",
+"asmFrameworkUrl": "Fallingwater.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
